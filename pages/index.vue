@@ -12,6 +12,14 @@
           <p>I'm Florian a passionate web developer from Germany</p>
         </v-card-text>
         <v-card-actions>
+          <v-btn
+            left
+            color="secondary"
+            href="https://github.com/GammaGate"
+            target="blank"
+          >
+            GitHub</v-btn
+          >
           <v-spacer />
           <v-btn color="primary" nuxt to="/inspire">Continue</v-btn>
         </v-card-actions>
