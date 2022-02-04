@@ -3,7 +3,7 @@
     <v-col cols="12" sm="8" md="6">
       <v-card class="logo py-4 d-flex justify-center">
         <NuxtLogo />
-        <VuetifyLogo />
+        <GammaGateLogo />
       </v-card>
       <v-card>
         <v-card-title class="headline">
@@ -81,7 +81,9 @@
 </template>
 
 <script>
+import GammaGateLogo from '~/components/GammaGateLogo.vue';
 export default {
-  name: 'IndexPage',
+    name: "IndexPage",
+    components: { GammaGateLogo }
 }
 </script>

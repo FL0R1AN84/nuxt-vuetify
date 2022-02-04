@@ -1,9 +1,9 @@
 <template>
-  <img class="vuetify-logo" alt="Vuetify Logo" src="/vuetify-logo.svg" />
+  <img class="gammagate-logo" alt="GammaGate Logo" src="/gammagate.svg" />
 </template>
 
 <style>
-.vuetify-logo {
+.gammagate-logo {
   height: 180px;
   width: 180px;
   transform: rotateY(560deg);
