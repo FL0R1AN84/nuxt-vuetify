@@ -15,7 +15,7 @@
           <v-btn
             left
             color="secondary"
-            href="https://github.com/GammaGate"
+            href="https://github.com/FL0R1AN84"
             target="blank"
           >
             GitHub</v-btn
